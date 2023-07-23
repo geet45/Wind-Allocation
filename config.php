@@ -1,5 +1,5 @@
 <?php
 
-$conn = mysqli_connect('localhost','root','sql123@root321','wind_login');
+$conn = mysqli_connect('localhost','username','password','db_name');
 
 ?>
